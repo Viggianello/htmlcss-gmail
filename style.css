@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 50%;
+    margin: auto;
+    background-image: url(img/sfondomarrone.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: scroll;
+    color: white;
+}
+img{
+    width: 20%;
+    vertical-align: middle;/*aggiunto in seguito alla lezione*/
+}
+h1{/*aggiunto in seguito alla lezione*/
+    display: inline-block;
+}
+section{
+    border-style: solid;
+    border-color: black;
+}
+.v{
+    margin: 2%;
+}
+.i{
+    margin: 1%;
+}
+.grigio{
+    color: darkgrey;
+}
+p{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: black;
+}
+mark{
+	width:100px;
+	height:100px;
+	border-radius:50px;
+	background:yellow;
+    color: white;
+    padding: 5px; /*aggiunto in seguito alla lezione successiva*/
+}
